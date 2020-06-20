@@ -1,10 +1,13 @@
 C:\Users\luisg\Desktop\microsevices-beer\msc-beer-service\src\main\java\com\example\mscbeerservice\web\controller\MvcExceptionHandler.java
 C:\Users\luisg\Desktop\microsevices-beer\msc-beer-service\src\main\java\com\example\mscbeerservice\MscBeerServiceApplication.java
-C:\Users\luisg\Desktop\microsevices-beer\msc-beer-service\src\main\java\com\example\mscbeerservice\web\model\BeerPagedList.java
+C:\Users\luisg\Desktop\microsevices-beer\msc-beer-service\src\main\java\com\example\mscbeerservice\service\BeerServiceImpl.java
 C:\Users\luisg\Desktop\microsevices-beer\msc-beer-service\src\main\java\com\example\mscbeerservice\web\mappers\BeerMapper.java
-C:\Users\luisg\Desktop\microsevices-beer\msc-beer-service\src\main\java\com\example\mscbeerservice\web\model\BeerDto.java
 C:\Users\luisg\Desktop\microsevices-beer\msc-beer-service\src\main\java\com\example\mscbeerservice\repositories\BeerRepository.java
 C:\Users\luisg\Desktop\microsevices-beer\msc-beer-service\src\main\java\com\example\mscbeerservice\bootstrap\BeerLoader.java
-C:\Users\luisg\Desktop\microsevices-beer\msc-beer-service\src\main\java\com\example\mscbeerservice\domain\Beer.java
+C:\Users\luisg\Desktop\microsevices-beer\msc-beer-service\src\main\java\com\example\mscbeerservice\service\BeerService.java
 C:\Users\luisg\Desktop\microsevices-beer\msc-beer-service\src\main\java\com\example\mscbeerservice\web\mappers\DateMapper.java
 C:\Users\luisg\Desktop\microsevices-beer\msc-beer-service\src\main\java\com\example\mscbeerservice\web\controller\BeerController.java
+C:\Users\luisg\Desktop\microsevices-beer\msc-beer-service\src\main\java\com\example\mscbeerservice\web\model\BeerPagedList.java
+C:\Users\luisg\Desktop\microsevices-beer\msc-beer-service\src\main\java\com\example\mscbeerservice\web\model\BeerDto.java
+C:\Users\luisg\Desktop\microsevices-beer\msc-beer-service\src\main\java\com\example\mscbeerservice\domain\Beer.java
+C:\Users\luisg\Desktop\microsevices-beer\msc-beer-service\src\main\java\com\example\mscbeerservice\web\controller\NotFoundException.java

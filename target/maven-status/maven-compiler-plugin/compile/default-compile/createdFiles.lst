@@ -1,4 +1,16 @@
+com\example\mscbeerservice\web\controller\NotFoundException.class
+com\example\mscbeerservice\repositories\BeerRepository.class
+com\example\mscbeerservice\web\controller\BeerController.class
 com\example\mscbeerservice\web\controller\MvcExceptionHandler.class
+com\example\mscbeerservice\web\model\BeerPagedList.class
+com\example\mscbeerservice\MscBeerServiceApplication.class
+com\example\mscbeerservice\service\BeerServiceImpl.class
+com\example\mscbeerservice\service\BeerService.class
 com\example\mscbeerservice\web\mappers\BeerMapper.class
+com\example\mscbeerservice\web\model\BeerDto$BeerDtoBuilder.class
 com\example\mscbeerservice\web\mappers\BeerMapperImpl.class
+com\example\mscbeerservice\domain\Beer.class
+com\example\mscbeerservice\domain\Beer$BeerBuilder.class
 com\example\mscbeerservice\web\mappers\DateMapper.class
+com\example\mscbeerservice\web\model\BeerDto.class
+com\example\mscbeerservice\bootstrap\BeerLoader.class
