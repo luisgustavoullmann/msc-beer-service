@@ -1,0 +1,4 @@
+com\example\mscbeerservice\web\controller\MvcExceptionHandler.class
+com\example\mscbeerservice\web\mappers\BeerMapper.class
+com\example\mscbeerservice\web\mappers\BeerMapperImpl.class
+com\example\mscbeerservice\web\mappers\DateMapper.class
